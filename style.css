@@ -9,9 +9,6 @@ body {
     background-color: hsl(233, 47%, 7%);
     display: grid;
     place-items: center;
-    /* display: flex;
-    align-items: center;
-    justify-content: center; */
     min-height: 100vh;
 }
 
@@ -73,7 +70,6 @@ section h1, section h2,section p {
     margin-left: 3rem;
 }
 
-
 section .benefits {
     display: flex;
     align-items: center;
@@ -94,39 +90,21 @@ section .benefits {
     section h1 {
         margin-top: 1rem;
     }
-
-    section h2 {
-
-    }
-
-    section p {
-        
-    }
-
-    section .insights {
-        
-    }
-
-
-
-    /* section picture img .image-header {
-        margin-bottom: 1rem;
-    } */
+ 
 }
 
 @media screen and (max-width: 480px) {
 
-    /* section picture img .image-header {
-        margin-bottom: 1rem;
-    } */
-
     body {
-        
+        overflow: auto;
     }
 
-
     section {
+        width: 23.438rem;
+    }
 
+    img {
+        width: 23.438rem;
     }
 
     section h1 {
@@ -143,6 +121,7 @@ section .benefits {
         justify-content: center;
         align-items: center;
                 flex-direction: column;
+        width: auto;
     }
     
     section article .article-paraghraph p {
@@ -152,12 +131,11 @@ section .benefits {
     section p {
         font-size: 1rem;
         text-align: center;
-        margin-left: 0;
-        /* width: 50%;
-        display: flex;
-        justify-content: center;
-        align-items: center; */
-        
+        margin-left: 0;        
+    }
+
+    footer p,footer a {
+        font-size: 0.5rem;
     }
 
     section article .benefits p {
