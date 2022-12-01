@@ -62,5 +62,5 @@ With this solution,i am confident to continue improving my coding skills
 
 ## Acknowledgments
 
-Thanks to [@denielden](https://www.frontendmentor.io/profile/denielden) that help me to improve my coding skills and make me have deeper understanding of HTML5 and CSS
-Thanks to [@AdrianoEscarabote] (https://www.frontendmentor.io/profile/AdrianoEscarabote) that help me to make improvement of my code structure
+- Thanks to [@denielden](https://www.frontendmentor.io/profile/denielden) that help me to improve my coding skills and make me have deeper understanding of HTML5 and CSS
+- Thanks to [@AdrianoEscarabote] (https://www.frontendmentor.io/profile/AdrianoEscarabote) that help me to make improvement of my code structure
